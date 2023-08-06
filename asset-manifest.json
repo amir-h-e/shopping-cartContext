@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shoppin-cartContext/static/css/main.0fbbdef3.css",
+    "main.js": "/shoppin-cartContext/static/js/main.5311df86.js",
+    "index.html": "/shoppin-cartContext/index.html",
+    "main.0fbbdef3.css.map": "/shoppin-cartContext/static/css/main.0fbbdef3.css.map",
+    "main.5311df86.js.map": "/shoppin-cartContext/static/js/main.5311df86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fbbdef3.css",
+    "static/js/main.5311df86.js"
+  ]
+}
